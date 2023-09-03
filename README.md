@@ -2,7 +2,7 @@
 
 
 ### 제 취미는요.. 
-=> **자전거 타기🚴, 춤추기💃**입니다!
+=> **수영🏊️, 춤추기💃**입니다!
 
 ### 🤗 저는 이런 사람입니다!
 
@@ -26,6 +26,7 @@
 ## 🥳Skills
 
 ### 💻Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
